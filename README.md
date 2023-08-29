@@ -26,16 +26,16 @@ Six different neural architectures were tested, yielding varied results, with th
 * 1st neural network: **loss**: 2.7913 - **accuracy**: 0.7770
 * 2nd neural network: **loss**: 4.8144 - **accuracy**: 0.6732
 * 3rd neural network: **loss**: 3.5195 - **accuracy**: 0.5763
-* 4th neural network: **loss**: 1.6255 - **accuracy**: 0.7890
+* 4th neural network: **loss**: 1.6255 - **accuracy**: 0.7890 ✅
 * 5th neural network: **loss**: 4.2998 - **accuracy**: 0.6604
-* 6th neural network: **loss**: 1.1829 - **accuracy**: 0.8139
+* 6th neural network: **loss**: 1.1829 - **accuracy**: 0.8139 ✅
 
 
 ## Repo structure
 
 The project has the following structure:
 - `notebook/`: `.ipynb` notebooks for data eploration, training models and ensembling.
-- `webapp/`: Contains the .html and the command to run the web from the local server. Along with the .json of the latest model.
+- `webapp/`: Contains the `.html` and the command to run the web from the local server. Along with the `.json` of the latest model.
 
 ## Contributing
 
