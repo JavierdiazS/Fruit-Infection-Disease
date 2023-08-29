@@ -28,7 +28,7 @@ Six different neural architectures were tested, yielding varied results, with th
 * 3rd neural network: **loss**: 3.5195 - **accuracy**: 0.5763
 * 4th neural network: **loss**: 1.6255 - **accuracy**: 0.7890 ✅
 * 5th neural network: **loss**: 4.2998 - **accuracy**: 0.6604
-* 6th neural network: **loss**: 1.1829 - **accuracy**: 0.8139 ✅
+* 6th neural network (Inception_v3): **loss**: 1.1829 - **accuracy**: 0.8139 ✅
 
 
 ## Repo structure
