@@ -34,7 +34,7 @@ Six different neural architectures were tested, yielding varied results, with th
 ## Repo structure
 
 The project has the following structure:
-- `notebook/`: `.ipynb` notebooks for data eploration, training models and ensembling.
+- `notebook/`: `.ipynb` notebook for data eploration, training models and ensembling.
 - `webapp/`: Contains the `.html` and the command to run the web from the local server. Along with the `.json` of the latest model.
 
 ## Contributing
