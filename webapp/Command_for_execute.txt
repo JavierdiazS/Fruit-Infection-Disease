@@ -1,0 +1,5 @@
+We need a web server to test the html.
+The simplest way is:
+	* Install Python on your PC
+	* Open a Command Line and run (Be located in the folder where the HTML is):
+		python -m http.server 8000
